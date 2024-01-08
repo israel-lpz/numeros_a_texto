@@ -1,6 +1,6 @@
 {
   "name": "numeros_a_texto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Libreria para convertir numeros a su equivalente en texto con opciones de plurales, singulares y decimales",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -33,6 +33,5 @@
     "jest": "^29.7.0",
     "prettier": "^3.1.1",
     "typescript": "^5.3.3"
-  },
-  "exports": [{}]
+  }
 }
